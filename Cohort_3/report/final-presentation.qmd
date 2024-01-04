@@ -28,17 +28,11 @@ Learn more: [TOPC Partners](https://quarto.org/docs/output-formats/html-code.htm
 
 ## Executive Summary
 
-::: {.fragment .fade-in}
-**💡 To maximize critical thinking skill** development across varying expertise levels, adapt the program with specialized tracks for new learners and advanced practitioners.
-:::
+**💡 Curriculum design and content:** To develop higher critical thinking skills across varying expertise levels, adapt the program with specialized tracks for new learners and advanced practitioners.
 
-::: {.fragment .fade-in}
-**💡 To better align with participants'** pre-existing knowledge and reduce project timelines pressures, refine the program content to eliminate redundant content and introduce adaptive pacing.
-:::
+**💡 Programmatic processes and operations:** To prevent skill and interest plateauing and foster continuous professional advancement, expand the curriculum with advanced HCD modules alongside a city maturity model.
 
-::: {.fragment .fade-in}
-**💡 To prevent skill plateauing** and foster continuous professional advancement, expand the curriculum with advanced HCD modules and a city maturity model.
-:::
+**💡** **Collaboration and communication:** To better align with participants' pre-existing knowledge, reduce project timelines pressures, and increase early team collaboration, refine the program design to introduce adaptive pacing and provide a roadmap for expected collaboration.
 
 ## **Overview**
 
@@ -168,129 +162,7 @@ Qualitative data analysis is currently being completed in **atlas.ti.** Reports 
 
 ------------------------------------------------------------------------
 
-## Insights and Recommendations {data-link="Recommendations"}
-
-**💡 To maximize critical thinking skill** development across varying expertise levels, adapt the program with specialized tracks for new learners and advanced practitioners.
-
-**💡 To better align with participants'** pre-existing knowledge and reduce project timelines pressures, refine the program content to eliminate redundant content and introduce adaptive pacing.
-
-**💡 To prevent skill plateauing** and foster continuous professional advancement, expand the curriculum with advanced HCD modules and a city maturity model.
-
-------------------------------------------------------------------------
-
-### Insight #1 {data-link="Recommendations"}
-
-During the program, participants from various backgrounds engaged in a process to **improve their skills** in community engagement and digital product management. The positive shift in self-reported skills across multiple areas post-program suggests that the curriculum was effective in enhancing practical skills, such as community research, user testing, data evaluation, and managing digital products. However, participants experienced some challenges with **stakeholder engagement**, **technology alignment**, and the **pressure** of the sprint timeline.
-
-::: footer
-💡 Insight #1
-:::
-
-------------------------------------------------------------------------
-
-The variability in participants' prior experience led to differing levels of engagement and **perceived value** from the program's offerings. Cities with less initial expertise, like Akron, saw **more substantial gains**, indicating that the curriculum was particularly beneficial for those at the **earlier stages of skill development**. Participants were motivated to enhance their skill set but required different levels of support and **flexibility in the curriculum** to accommodate their varying levels of expertise and experience. The program's **"one-size-fits-all" approach** led to **mixed outcomes**, where some participants found certain elements redundant or less beneficial, while others experienced significant skill enhancement.
-
-::: footer
-💡 Insight #1
-:::
-
-------------------------------------------------------------------------
-
-::: callout-tip
-## Recommendation
-
-To address the diverse needs of participants, the program should provide a more **tailored curriculum** that offers flexibility and adapts to the varying skill levels of the participants. This could involve offering advanced modules for more experienced participants while reinforcing fundamental concepts for newcomers.
-
-Additionally, fostering a **hybrid collaborative environment** that accommodates both in-person and digital interaction can help mitigate zoom fatigue. Managing **expectations** for "repeat" participants can enhance stakeholder engagement.
-:::
-
-Relevant to [Finding 2.1] - [Finding 4.3].
-
-::: footer
-💡 Insight #1
-:::
-
-------------------------------------------------------------------------
-
-### Insight #2 {data-link="Recommendations"}
-
-The program brings together diverse participants to collaborate on community-centered projects, with the aim of i**mproving public service** through digital solutions. The findings indicate a **strong endorsement** of the **program's structure** and support mechanisms, with **facilitation and peer learning** highlighted as particularly beneficial.
-
-However, some participants found aspects of the process, such as **redundant training** and **bureaucratic hurdles,** to be less helpful.
-
-::: footer
-💡 Insight #2
-:::
-
-------------------------------------------------------------------------
-
-The repetition of content and the **rigid structure of the program** did not always align with participants' existing knowledge (and expectations) and the dynamic nature of project development.
-
-Participants were driven by the desire to create impactful community solutions but needed a **more responsive and adaptive** program structure to effectively leverage their skills and knowledge. The limited flexibility in the curriculum and the **intense pace of the sprint** sometimes created pressure and detracted from the overall learning experience, leading to **fatigue** and reduced effectiveness.
-
-::: footer
-💡 Insight #2
-:::
-
-------------------------------------------------------------------------
-
-::: callout-tip
-## Recommendation
-
-The program should streamline its content to **avoid repetition** and provide **more advanced options** for those with prior experience.
-
-It should also introduce mechanisms and practical resources to **navigate bureaucratic processes** more smoothly and build in more timeline flexibility to **account for setbacks.** The recommendation is to evaluate and refresh the curriculum regularly, considering participants' feedback to ensure relevance and engagement.
-:::
-
-Relevant to [Finding 2.1] - [Finding 4.3].
-
-::: footer
-💡 Insight #2
-:::
-
-------------------------------------------------------------------------
-
-### Insight #3 {data-link="Recommendations"}
-
-The program aims to foster a robust set of human-centered design (HCD) skills among participants to improve their ability to develop and manage community-facing products and services.
-
-While participants' self-reported skills improved in areas such as prioritizing product requirements and creating sustainability plans, some experienced a saturation point in their HCD skill development. There was also an indication that **expectations for the program varied**, affecting participants' perceived value and engagement.
-
-::: footer
-💡 Insight #3
-:::
-
-------------------------------------------------------------------------
-
-Participants with advanced HCD competencies reached a **plateau in skill advancement**, while others with less experience found the program to be significantly beneficial.
-
-All participants sought to advance their competencies in HCD, but their **different starting points** meant that their learning goals and the program's effectiveness varied.
-
-Participants with **higher levels of pre-existing HCD** competencies found some elements of the **program less bene**ficial, indicating a need for more advanced and differentiated learning paths.
-
-::: footer
-💡 Insight #3
-:::
-
-------------------------------------------------------------------------
-
-::: callout-tip
-## Recommendation
-
-For participants who have reached a **higher order of critical thinking skills** in HCD, the program should offer advanced opportunities for **peer teaching and mentorship**. This can prevent the **plateau effect** and ensure continuous professional growth.
-
-Additionally, crafting a **maturity model** and defining an **ideal city persona** can help in customizing the program to better fit the needs of participating cities at different stages of HCD maturity.
-:::
-
-Relevant to [Finding 2.1] - [Finding 4.3].
-
-::: footer
-💡 Insight #3
-:::
-
-------------------------------------------------------------------------
-
-## Findings
+## Evaluation Answers
 
 #### 1. Participant knowledge and awareness
 
@@ -302,13 +174,109 @@ Future iterations will incorporate such queries to gauge participant understandi
 
 #### 2. Participant competencies and confidence (self-efficacy)
 
-Self-efficacy is measured against three types of skills:
+Self-efficacy is measured against two types of skills:
 
 -   **Community research**, such as research, user testing, wireframing, ideation, brainstorming and prototyping.
 
 -   **Product stewardship**, such as data evaluation, product requirements, and sustainability.
 
 Findings includes: [Finding 2.1], [Finding 2.2], [Finding 2.3], [Finding 2.4], [Finding 2.5], [Finding 2.6], [Finding 2.7], [Finding 2.8], [Finding 2.8].
+
+------------------------------------------------------------------------
+
+::: callout-note
+## Key Takeway
+
+Overall, the survey results show a **positive shift** in participant's agreement that they learned new skills across key learning areas of community research and product stewardship.
+
+However, open-ended survey question provide interesting context that could either **contradict** their initial responses or **provide more nuances**. For example, a participant might have indicated they learned in general on community research but reported in open-ended questions that they found program content redundant because they already collaborate with community partners in their work.
+:::
+
+Relevant quotes:
+
+*"I am **already familiar** with the design thinking process so some of the instructional meetings were not relevant to me." -* Senior Official
+
+------------------------------------------------------------------------
+
+Relevant quotes:
+
+*"Some of the **content training was a repeat** from our previous sprint. It was good to have a refresher, but was **not as helpful** as the other aspects."* - Manager
+
+*"I appreciate the **idea of a "sprint"** and getting things done on a timeline, however this made the project even more **difficult at times**. There was **not much room** for setbacks and this often created pressure within the team. Also, **meeting** once a week was needed because of the timeline, but this can be **overwhelming** at times in collaboration with other obligations."* - Community Leader
+
+------------------------------------------------------------------------
+
+#### 3. Participant recognition and application of methods
+
+Application of methods is measured against one type of skill:
+
+-   **Partnerships**, with community partners, internal stakeholders, and tech vendors.
+
+Findings includes: [Finding 3.1], [Finding 3.2], [Finding 3.3].
+
+------------------------------------------------------------------------
+
+::: callout-note
+## Key Takeaway
+
+Oerall, the survey results show a **positive shift** in participant's agreement that they learned new skills in the partnership key learning area.
+
+However, open-ended survey question provide **context about participant needs.** General needs are early collaboration with tech vendors, community partners, and internal stakeholders, bringing technical expertise sooner than later, and meeting in-person.
+:::
+
+Relevant quotes:
+
+*"Making sure we have the **commitment** of all **internal partners** that need to be involved and that meeting invites were sent out to those key partners **ahead of time**."* - Senior Official
+
+*"More opportunities to meet **in person**."* - Civil Servant
+
+------------------------------------------------------------------------
+
+Relevant quotes:
+
+*"Not changing coaches. simplifying the idea. Having the **technical team** produce a prototype earlier for us to review and improve it."* - Senior Official
+
+*"I think having the co**mmunity partner** in the **initial meeting** with the city to discuss the problem statement could have been ideal. This would've **helped flesh** out the **problem statement** especially because the community partner may have different insight on what issues residents are facing."* - Community Leader
+
+*"I would strongly suggest to **bring more tech people** into this Sprint. It will help us **gain more ideas** from technology perspective."* - Manager
+
+------------------------------------------------------------------------
+
+#### 4. Participant satisfaction
+
+Satisfaction is measured against recommending the program to peers with relevant findings:
+
+-   **Areas for improvement**
+
+-   **Most helpful** aspect of the program
+
+-   **Least helpful** aspect of the program
+
+-   **Initial expectations** at the start of the program
+
+Findings includes: [Finding 4.1], [Finding 4.2], [Finding 4.3].
+
+------------------------------------------------------------------------
+
+::: callout-note
+## Key Takeaway
+
+Overall, the survey results show a **positive agreement** in participant's recommending this program to their peers across all cities.
+
+However, open-ended survey question provide **context about participant needs.** General needs are early collaboration with key partners including leadership buy-in, more in-person collaboration, improvements in the program's processes like meetings and timelines, and content.
+:::
+
+------------------------------------------------------------------------
+
+#### 5. Participant intention to action
+
+The pre- and post-test surveys did not include questions designed to directly measure participants' intention to action towards HCD after the end of the program
+
+Future iterations will incorporate such queries to gauge participant willingness to apply skills gained in the program to future or existing work.
+
+------------------------------------------------------------------------
+
+## Findings
 
 ------------------------------------------------------------------------
 
@@ -498,16 +466,6 @@ KLA: Product stewardship
 
 ------------------------------------------------------------------------
 
-#### 3. Participant recognition and application of methods
-
-Application of methods is measured against one type of skill:
-
--   **Partnerships**, with community partners, internal stakeholders, and tech vendors.
-
-Findings includes: [Finding 3.1], [Finding 3.2], [Finding 3.3].
-
-------------------------------------------------------------------------
-
 ::: panel-tabset
 ## Finding 3.1
 
@@ -574,22 +532,6 @@ KLA: Partnerships
 
 ------------------------------------------------------------------------
 
-#### 4. Participant satisfaction
-
-Satisfaction is measured against recommending the program to peers with relevant findings:
-
--   **Areas for improvement**
-
--   **Most helpful** aspect of the program
-
--   **Least helpful** aspect of the program
-
--   **Initial expectations** at the start of the program
-
-Findings includes: [Finding 4.1], [Finding 4.2], [Finding 4.3].
-
-------------------------------------------------------------------------
-
 ::: panel-tabset
 ## Finding 4.1
 
@@ -631,7 +573,7 @@ Participant satisfaction
 
 -   **Redundant training and repetitive content** with some content training was repetitive from previous sprints and not seen as beneficial. Familiarity with the design thinking process made some instructional meetings feel irrelevant.
 
--   **Process management** encounteredbureaucratic hurdles and the pressure of the sprint timeline.
+-   **Process management** encountered bureaucratic hurdles and the pressure of the sprint timeline.
 
 -   **Zoom fatigue and meeting management** with concerns about the frequency of virtual meetings leading to fatigue.
 :::
@@ -666,11 +608,117 @@ Participant satisfaction
 
 ------------------------------------------------------------------------
 
-#### 5. Intention to Action
+## Insights and Recommendations {data-link="Recommendations"}
 
-The pre- and post-test surveys did not include questions designed to directly measure participants\' intention to action towards HCD after the end of the program
+### Insight #1 {data-link="Recommendations"}
 
-Future iterations will incorporate such queries to gauge participant willingness to apply HCD methods and skills in their work after the program ends.
+During the program, participants from various backgrounds engaged in a process to **improve their skills** in community engagement and digital product management. The positive shift in self-reported skills across multiple areas post-program suggests that the curriculum was effective in enhancing practical skills, such as community research, user testing, data evaluation, and managing digital products. However, participants experienced some challenges with **stakeholder engagement**, **technology alignment**, and the **pressure** of the sprint timeline.
+
+::: footer
+💡 Insight #1
+:::
+
+------------------------------------------------------------------------
+
+The variability in participants' prior experience led to differing levels of engagement and **perceived value** from the program's offerings. Cities with less initial expertise, like Akron, saw **more substantial gains**, indicating that the curriculum was particularly beneficial for those at the **earlier stages of skill development**. Participants were motivated to enhance their skill set but required different levels of support and **flexibility in the curriculum** to accommodate their varying levels of expertise and experience. The program's **"one-size-fits-all" approach** led to **mixed outcomes**, where some participants found certain elements redundant or less beneficial, while others experienced significant skill enhancement.
+
+::: footer
+💡 Insight #1
+:::
+
+------------------------------------------------------------------------
+
+::: callout-tip
+## Recommendation
+
+To address the diverse needs of participants, the program should provide a more **tailored curriculum** that offers flexibility and adapts to the varying skill levels of the participants. This could involve offering advanced modules for more experienced participants while reinforcing fundamental concepts for newcomers.
+
+Additionally, fostering a **hybrid collaborative environment** that accommodates both in-person and digital interaction can help mitigate zoom fatigue. Managing **expectations** for "repeat" participants can enhance stakeholder engagement.
+:::
+
+Relevant to [Finding 2.1] - [Finding 4.3].
+
+::: footer
+💡 Insight #1
+:::
+
+------------------------------------------------------------------------
+
+### Insight #2 {data-link="Recommendations"}
+
+The program brings together diverse participants to collaborate on community-centered projects, with the aim of i**mproving public service** through digital solutions. The findings indicate a **strong endorsement** of the **program's structure** and support mechanisms, with **facilitation and peer learning** highlighted as particularly beneficial.
+
+However, some participants found aspects of the process, such as **redundant training** and **bureaucratic hurdles,** to be less helpful.
+
+::: footer
+💡 Insight #2
+:::
+
+------------------------------------------------------------------------
+
+The repetition of content and the **rigid structure of the program** did not always align with participants' existing knowledge (and expectations) and the dynamic nature of project development.
+
+Participants were driven by the desire to create impactful community solutions but needed a **more responsive and adaptive** program structure to effectively leverage their skills and knowledge. The limited flexibility in the curriculum and the **intense pace of the sprint** sometimes created pressure and detracted from the overall learning experience, leading to **fatigue** and reduced effectiveness.
+
+::: footer
+💡 Insight #2
+:::
+
+------------------------------------------------------------------------
+
+::: callout-tip
+## Recommendation
+
+The program should streamline its content to **avoid repetition** and provide **more advanced options** for those with prior experience.
+
+It should also introduce mechanisms and practical resources to provide **early team collaboration** with community and tech partners and **navigate bureaucratic processes** more smoothly. Build in more timeline flexibility to **account for setbacks.** Evaluate and refresh the curriculum regularly, considering participants' feedback to ensure relevance and engagement.
+:::
+
+Relevant to [Finding 2.1] - [Finding 4.3].
+
+::: footer
+💡 Insight #2
+:::
+
+------------------------------------------------------------------------
+
+### Insight #3 {data-link="Recommendations"}
+
+The program aims to foster a robust set of human-centered design (HCD) skills among participants to improve their ability to develop and manage community-facing products and services.
+
+While participants' self-reported skills improved in areas such as prioritizing product requirements and creating sustainability plans, some experienced a saturation point in their HCD skill development. There was also an indication that **expectations for the program varied**, affecting participants' perceived value and engagement.
+
+::: footer
+💡 Insight #3
+:::
+
+------------------------------------------------------------------------
+
+Participants with advanced HCD competencies reached a **plateau in skill advancement**, while others with less experience found the program to be significantly beneficial.
+
+All participants sought to advance their competencies in HCD, but their **different starting points** meant that their learning goals and the program's effectiveness varied.
+
+Participants with **higher levels of pre-existing HCD** competencies found some elements of the **program less bene**ficial, indicating a need for more advanced and differentiated learning paths.
+
+::: footer
+💡 Insight #3
+:::
+
+------------------------------------------------------------------------
+
+::: callout-tip
+## Recommendation
+
+For participants who have reached a **higher order of critical thinking skills** in HCD, the program should offer advanced opportunities for **peer teaching and mentorship**. This can prevent the **plateau effect** and ensure continuous professional growth.
+
+Additionally, crafting a **maturity model** and defining an **ideal city persona** can help in customizing the program to better fit the needs of participating cities at different stages of HCD maturity.
+:::
+
+Relevant to [Finding 2.1] - [Finding 4.3].
+
+::: footer
+💡 Insight #3
+:::
 
 ------------------------------------------------------------------------
 
@@ -712,35 +760,15 @@ In our analysis of the survey data, we have applied survey sampling weights to a
 
 ------------------------------------------------------------------------
 
-## FAQ
-
-TBD
-
-------------------------------------------------------------------------
-
 ## Appendix
 
--   Github repository
+-   [Github repository](https://github.com/beeckcenter/TOPC-impact-evaluation-dashboard "TOPC impact evaluation dashboard")
 
--   Survey responses
+-   [Survey data](https://drive.google.com/drive/folders/1Awynlxerr_mH0LjnwfzvV6PM44rPP5A0?usp=drive_link)
 
--   Interview recordings and analysis
+-   [Interview data](https://drive.google.com/drive/folders/1Awynlxerr_mH0LjnwfzvV6PM44rPP5A0?usp=drive_link)
 
 ------------------------------------------------------------------------
-
-## Data
-
-::: panel-tabset
-## Pre-test
-
-Weighted summary statistics. Median (standard deviation).
-
-::: callout-caution
-The weighted pre- and post-test summary statistics are not comparable because their questions and Likert scales are different. But, they provide general trends and patterns that are useful.
-:::
-:::
-
-## References
 
 ## Contact Us
 
