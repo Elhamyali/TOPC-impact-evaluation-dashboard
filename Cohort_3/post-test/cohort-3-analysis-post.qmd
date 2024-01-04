@@ -362,7 +362,7 @@ ggplot(as.data.frame(q27_frequency), aes(x = q27, y = Freq)) +
 q27_cross_tab_city <- svytable(~q27 + city_mapped, design = design)
 
 ggplot(as.data.frame(q27_cross_tab_city), aes(x = city_mapped, y = Freq, fill = q27)) +
-  geom_bar(stat = "identity", position = "stack") +
+  geom_bar(stat = "identity", position = "stack", width = 0.7) +
   coord_flip() +
   scale_fill_manual(values = c("#041e42","#6eaddc","#da291c","#1B786E"),
                     limits = c("0-2 years", "3-5 years", "6-9 years", "10+ years")) + 
