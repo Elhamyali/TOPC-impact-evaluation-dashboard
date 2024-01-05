@@ -316,6 +316,7 @@ q4_frequency <- svytable(~q4, design = design)
 q4_pre_frequency_plot <- ggplot(as.data.frame(q4_frequency), aes(x = q4, y = Freq)) +
   geom_bar(stat = "identity", fill = "#041e42", width = 0.7) +
   coord_flip() +
+  expand_limits(y = c(0, total_sample)) + 
   labs(title = "Q7. Which city/county are you representing?",
        subtitle = paste("Sample size =", total_sample),
        x = "",
@@ -343,6 +344,7 @@ q3_frequency <- svytable(~q3, design = design)
 q3_pre_frequency_plot <- ggplot(as.data.frame(q3_frequency), aes(x = q3, y = Freq)) +
   geom_bar(stat = "identity", fill = "#041e42", width = 0.7) +
   coord_flip() +
+  expand_limits(y = c(0, total_sample)) + 
   labs(title = "Q8. Which title best describes your role and level 
 of seniority at work?",
        subtitle = paste("Sample size =", total_sample),
@@ -371,6 +373,7 @@ q5_frequency <- svytable(~q5, design = design)
 q5_pre_frequency_plot <- ggplot(as.data.frame(q5_frequency), aes(x = q5, y = Freq)) +
   geom_bar(stat = "identity", fill = "#041e42", width = 0.7) +
   coord_flip() +
+  expand_limits(y = c(0, total_sample)) + 
   labs(title = "Q8. Which title best describes your role and level 
 of seniority at work?",
        subtitle = paste("Sample size =", total_sample),
@@ -399,6 +402,7 @@ q7_frequency <- svytable(~q7, design = design)
 q7_pre_frequency_plot <- ggplot(as.data.frame(q7_frequency), aes(x = q7, y = Freq)) +
   geom_bar(stat = "identity", fill = "#041e42", width = 0.7) +
   coord_flip() +
+  expand_limits(y = c(0, total_sample)) + 
   labs(title = "Q10. How many years have you worked for your city or county?",
        subtitle = paste("Sample size =", total_sample),
        x = "",

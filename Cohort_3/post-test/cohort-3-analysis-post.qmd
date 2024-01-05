@@ -253,13 +253,11 @@ kable(results_df, caption = "Post-test Survey Results by City and Question",
 # Single-variable frequency plot
 q3_frequency <- svytable(~q3, design = design)
 
-ggplot(as.data.frame(q3_frequency), aes(x = q3, y = Freq)) +
+q3_post_frequency_plot <- ggplot(as.data.frame(q3_frequency), aes(x = q3, y = Freq)) +
   geom_bar(stat = "identity", fill = "#041e42", width = 0.7) +
   coord_flip() +
   expand_limits(y = c(0, total_sample)) + 
-  labs(title = "All city governments participated in the survey with the 
-highest number of respondents from Miami-Dade and 
-Macon-Bibb Counties.",
+  labs(title = "Q3. Which city/county are you representing?",
        subtitle = paste("Total number of survey respondents per city team (n =", total_sample, ")"),
        x = "",
        y = "Number of Responses") +
@@ -273,6 +271,9 @@ Macon-Bibb Counties.",
         plot.title = element_text(face = "bold"),
         plot.caption = element_text(hjust = 0)) +
   guides(fill = guide_legend(nrow = 1, byrow = TRUE))
+
+print(q3_post_frequency_plot)
+ggsave("plots/q3_post_frequency_plot.png", q3_post_frequency_plot)
 ```
 
 **Q25. Which title best describes your role and level of seniority at work?**
@@ -284,12 +285,12 @@ Macon-Bibb Counties.",
 # Single-variable frequency plot
 q25_frequency <- svytable(~q25, design = design)
 
-ggplot(as.data.frame(q25_frequency), aes(x = q25, y = Freq)) +
+q25_post_frequency_plot <- ggplot(as.data.frame(q25_frequency), aes(x = q25, y = Freq)) +
   geom_bar(stat = "identity", fill = "#041e42", width = 0.7) +
   coord_flip() +
   expand_limits(y = c(0, total_sample)) + 
-  labs(title = "Majority of respondents are senior officials or 
-managers.",
+  labs(title = "Q25. Which title best describes your role and level of 
+seniority at work?",
        subtitle = paste("Total number of survey respondents (n =", total_sample, ")"),
        x = "",
        y = "Number of Responses") +
@@ -304,30 +305,8 @@ managers.",
         plot.caption = element_text(hjust = 0)) +
   guides(fill = guide_legend(nrow = 1, byrow = TRUE))
 
-# # Cross-tabulation with cities
-# colors <- c("#041e42", "#6eaddc", "#da291c", "#1B786E", "#e69138", "#5b9bd5", "#a4c739")
-# 
-# q25_cross_tab_city <- svytable(~q25 + city_mapped, design = design)
-# 
-# ggplot(as.data.frame(q25_cross_tab_city), aes(x = city_mapped, y = Freq, fill = q25)) +
-#   geom_bar(stat = "identity", position = "stack") +
-#   coord_flip() +
-#   scale_fill_manual(values = colors) +  # Assign the colors to the categories
-#   labs(title = "Distribution of Q25 Responses Across Cities",
-#        subtitle = paste("Responses for Q25 (n =", total_sample, ")"),
-#        x = "",
-#        y = "Number of Responses",
-#        caption = "Source: TOPC Cohort 3 Survey (2023)") +
-#   theme_minimal() +
-#   theme(legend.position = "bottom",
-#         legend.box = "vertical",
-#         legend.box.margin = margin(0, 0, 0, 0),
-#         legend.title = element_blank(),
-#         panel.grid.major.y = element_blank(),
-#         panel.grid.minor.y = element_blank(),
-#         plot.title = element_text(face = "bold"),
-#         plot.caption = element_text(hjust = 0)) +
-#   guides(fill = guide_legend(nrow = 1, byrow = TRUE))
+print(q25_post_frequency_plot)
+ggsave("plots/q25_post_frequency_plot.png", q25_post_frequency_plot)
 ```
 
 **Q27. How many years have you worked at your respective City or County?**
@@ -339,11 +318,11 @@ managers.",
 # Single-variable frequency plot
 q27_frequency <- svytable(~q27, design = design)
 
-ggplot(as.data.frame(q27_frequency), aes(x = q27, y = Freq)) +
+q27_post_frequency_plot <-ggplot(as.data.frame(q27_frequency), aes(x = q27, y = Freq)) +
   geom_bar(stat = "identity", fill = "#041e42", width = 0.7) +
   coord_flip() +
   expand_limits(y = c(0, total_sample)) + 
-  labs(title = "Majority are new to working in their city or county governments.",
+  labs(title = "Q27. How many years have you worked at your respective City or County?",
        subtitle = paste("Total number of survey respondents (n =", total_sample, ")"),
        x = "",
        y = "Number of Responses") +
@@ -366,8 +345,7 @@ ggplot(as.data.frame(q27_cross_tab_city), aes(x = city_mapped, y = Freq, fill = 
   coord_flip() +
   scale_fill_manual(values = c("#041e42","#6eaddc","#da291c","#1B786E"),
                     limits = c("0-2 years", "3-5 years", "6-9 years", "10+ years")) + 
-  labs(title = "Majority are new to working to city and county governments, 
-especially in Macon and Detroit.",
+  labs(title = "Q27. How many years have you worked at your respective City or County?",
        subtitle = paste("Years of Experience: Range from 0 to 10+ years (n =", total_sample, ")"),
        x = "",
        y = "Number of Responses",
@@ -382,6 +360,9 @@ especially in Macon and Detroit.",
         plot.title = element_text(face = "bold"),
         plot.caption = element_text(hjust = 0)) +
   guides(fill = guide_legend(nrow = 1, byrow = TRUE))
+
+print(q27_post_frequency_plot)
+ggsave("plots/q27_post_frequency_plot.png", q27_post_frequency_plot)
 ```
 
 **Q28. Please describe your racial/ethnic identity. Select all that apply.**
@@ -393,11 +374,11 @@ especially in Macon and Detroit.",
 # Single-variable frequency plot
 q28_frequency <- svytable(~q28, design = design)
 
-ggplot(as.data.frame(q28_frequency), aes(x = q28, y = Freq)) +
+q28_post_frequency_plot <-ggplot(as.data.frame(q28_frequency), aes(x = q28, y = Freq)) +
   geom_bar(stat = "identity", fill = "#041e42", width = 0.7) +
   coord_flip() +
   expand_limits(y = c(0, total_sample)) + 
-  labs(title = "Majority are new to working in their city or county governments.",
+  labs(title = "Q28. Please describe your racial/ethnic identity.",
        subtitle = paste("Total number of survey respondents (n =", total_sample, ")"),
        x = "",
        y = "Number of Responses") +
@@ -411,6 +392,9 @@ ggplot(as.data.frame(q28_frequency), aes(x = q28, y = Freq)) +
         plot.title = element_text(face = "bold"),
         plot.caption = element_text(hjust = 0)) +
   guides(fill = guide_legend(nrow = 1, byrow = TRUE))
+
+print(q28_post_frequency_plot)
+ggsave("plots/q28_post_frequency_plot.png", q28_post_frequency_plot)
 ```
 
 **Q29. Which gender do you most closely identify with (or self-describe in 'other')?**
@@ -422,11 +406,12 @@ ggplot(as.data.frame(q28_frequency), aes(x = q28, y = Freq)) +
 # Single-variable frequency plot
 q29_frequency <- svytable(~q29, design = design)
 
-ggplot(as.data.frame(q29_frequency), aes(x = q29, y = Freq)) +
+q29_post_frequency_plot <- ggplot(as.data.frame(q29_frequency), aes(x = q29, y = Freq)) +
   geom_bar(stat = "identity", fill = "#041e42", width = 0.7) +
   coord_flip() +
   expand_limits(y = c(0, total_sample)) + 
-  labs(title = "More than half of respondents identify as male.",
+  labs(title = "Q29. Which gender do you most closely identify with 
+(or self-describe in 'other')?",
        subtitle = paste("Total number of survey respondents (n =", total_sample, ")"),
        x = "",
        y = "Number of Responses") +
@@ -440,6 +425,9 @@ ggplot(as.data.frame(q29_frequency), aes(x = q29, y = Freq)) +
         plot.title = element_text(face = "bold"),
         plot.caption = element_text(hjust = 0)) +
   guides(fill = guide_legend(nrow = 1, byrow = TRUE))
+
+print(q29_post_frequency_plot)
+ggsave("plots/q29_post_frequency_plot.png", q29_post_frequency_plot)
 ```
 
 ```{r}

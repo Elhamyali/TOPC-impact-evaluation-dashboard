@@ -23,7 +23,7 @@ Your active engagement, insights, and commitment were pivotal in bringing this r
 ![](images/topc-partners.png)
 
 ::: footer
-Learn more: [TOPC Partners](https://quarto.org/docs/output-formats/html-code.html#highlighting)
+Learn more: [TOPC Partners](https://www.centreforpublicimpact.org/north-america/government-innovation/the-opportunity-project-for-cities-topcities)
 :::
 
 ## Executive Summary
@@ -122,7 +122,7 @@ The data collection methods are:
 
 -   **Structured evaluations** through surveys and interviews at specific points in the program.
 
--   **Ongoing feedback** with an Insights and testimonials form throughout the design sprint.
+-   **Ongoing feedback** with an Insights Log of testimonials form throughout the design sprint.
 
 ------------------------------------------------------------------------
 
@@ -143,6 +143,56 @@ Data cleaning, wrangling and analysis were completed in **R.** Reports generated
 | Post-test         | 13          | At the end of program                |
 | 6-month follow-up | N/A         | 6-months after program               |
 | Learning session  | 4 - 18      | At the end of every learning session |
+
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="50%"}
+**Before**
+
+The *pre-test* survey had a total of respondents from:
+
+-   Akron = 7
+
+-   Detroit = 1
+
+-   Macon = 4
+
+-   Miami = 3
+:::
+
+::: {.column width="50%"}
+**After**
+
+The *post-test* survey had a total of respondents from:
+
+-   Akron = 4
+
+-   Detroit = 2
+
+-   Macon = 4
+
+-   Miami = 3
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="50%"}
+**Before**
+
+![](images/q4_pre_frequency_plot-01.png){fig-align="center" width="100%"}
+:::
+
+::: {.column width="50%"}
+**After**
+
+![](images/q3_post_frequency_plot.png){fig-align="center" width="100%"}
+:::
+:::
+
+Weights were applied in this survey analysis to adjust the results to compensate for different probabilities of selection, non-response, and to adjust the sample to known population totals.
 
 ------------------------------------------------------------------------
 
@@ -638,6 +688,8 @@ Additionally, fostering a **hybrid collaborative environment** that accommodates
 
 Relevant to [Finding 2.1] - [Finding 4.3].
 
+Supporting quotes from interviews: *"A reassessment of the **rigidity of the formula** that that it comes with versus kind of being flexible to what is what is coming in."* - Detroit
+
 ::: footer
 💡 Insight #1
 :::
@@ -671,7 +723,7 @@ Participants were driven by the desire to create impactful community solutions b
 
 The program should streamline its content to **avoid repetition** and provide **more advanced options** for those with prior experience.
 
-It should also introduce mechanisms and practical resources to provide **early team collaboration** with community and tech partners and **navigate bureaucratic processes** more smoothly. Build in more timeline flexibility to **account for setbacks.** Evaluate and refresh the curriculum regularly, considering participants' feedback to ensure relevance and engagement.
+It should also introduce mechanisms and practical approaches for **early team collaboration** with community and tech partners and **navigate bureaucratic processes** more smoothly. Build in more timeline flexibility to **account for setbacks.** Evaluate and refresh the curriculum regularly, considering participants' feedback to ensure relevance and engagement.
 :::
 
 Relevant to [Finding 2.1] - [Finding 4.3].
@@ -698,7 +750,7 @@ Participants with advanced HCD competencies reached a **plateau in skill advance
 
 All participants sought to advance their competencies in HCD, but their **different starting points** meant that their learning goals and the program's effectiveness varied.
 
-Participants with **higher levels of pre-existing HCD** competencies found some elements of the **program less bene**ficial, indicating a need for more advanced and differentiated learning paths.
+Participants with **higher levels of pre-existing HCD** competencies found some elements of the **program less beneficial**, indicating a need for more advanced and differentiated learning paths.
 
 ::: footer
 💡 Insight #3
